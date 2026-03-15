@@ -1,14 +1,14 @@
-public abstract class AkunBank {
-    protected String nomorAkun;
+public abstract class Rekening {
+    protected String nomorRekening;
     protected double saldo;
 
-    public AkunBank(String nomorAkun, double saldo) {
-        this.nomorAkun = nomorAkun;
+    public Rekening(String nomorRekening, double saldo) {
+        this.nomorRekening = nomorRekening;
         this.saldo = saldo;
     }
 
-    public String getNomorAkun() {
-        return nomorAkun;
+    public String getNomorRekening() {
+        return nomorRekening;
     }
 
     public double getSaldo() {
