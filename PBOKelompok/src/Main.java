@@ -1,3 +1,8 @@
+/* Nama File    : Main.java */
+/* Deskripsi    : berisi realisasi untuk semua atribut dan method objek */
+/* Pembuat      : Yustinus Hendi Setyawan, Revanska Muhammad Athallah, Kiyoshi Akila Tira, Romualdus Yoas W, Ilham Muhammad Raffi */
+/* Tanggal      : Selasa, 17 Maret 2026 */
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("=== Bank VM Gondrong ===\n");
