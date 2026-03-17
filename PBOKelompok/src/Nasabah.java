@@ -18,7 +18,7 @@ public class Nasabah {
     }
 
     public void cetakInfoNasabah() {
-        System.out.println("=== Informasi Nasabah ===");
+        System.out.println("\n=== Informasi Nasabah ===");
         System.out.println("Nama: " + nama);
         System.out.println("NIK : " + nik);
         System.out.println("Daftar Rekening:");
